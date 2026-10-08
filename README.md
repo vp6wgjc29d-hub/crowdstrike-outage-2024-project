@@ -8,7 +8,18 @@ On July 19, 2024, a faulty CrowdStrike Falcon update (Channel File 291) caused 8
 - Jasmeen Kaur (jasmeen10092007-svg)
 
 ## Project Structure"
-
+crowdstrike-outage-2024-project/
+├── docs/
+│ └── notes.md
+├── script/
+│ └── script.md - Video presentation script
+├── slides/
+│ ├── prashanthi-slides.md - Slides 1-5 (Intro, Timeline, Impact)
+│ └── jasmeen-slides.md - Slides 6-10 (Root Cause, Fix, Prevention)
+├── media/
+│ ├── bsod.png - Blue Screen of Death image
+│ └── airport.jpg - Airport chaos during outage
+└── README.md
 
 ## Contributions
 - **Prashanthi Seelam:** 
