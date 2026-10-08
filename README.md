@@ -4,7 +4,7 @@
 On July 19, 2024, a faulty CrowdStrike Falcon update (Channel File 291) caused 8.5 million Windows PCs to crash with BSOD, affecting airlines, hospitals, and banks worldwide.
 
 ## Team Members
-- Prashanthi Reddy (pseelam)
+- Prashanthi Seelam (pseelam)
 - Jasmeen Kaur (jasmeen10092007-svg)
 
 ## Project Structure"
