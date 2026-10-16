@@ -32,6 +32,11 @@ crowdstrike-outage-2024-project/
     - Slides 6-10 content (Root Cause: C-00000291*.sys, Fix steps, Prevention)
     - script/script.md - Full video script with clear speaker lines
     - Content authored by Jasmeen, uploaded by Prashanthi due to Seneca Matrix token issue (github_pat_ blocked, needs ghp_ classic token)
+## 📹 Presentation Video
+YouTube: 
+Duration: 7:34 mins
+- Prashanthi (0:00-3:25): Slides 1-5 - What happened, Timeline, Impact
+- Jasmeen (3:25-7:34): Slides 6-10 - BSOD, Fix, Prevention, GitHub
 
 ## Video Presentation
 Link:
