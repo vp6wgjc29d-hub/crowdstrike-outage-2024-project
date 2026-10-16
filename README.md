@@ -7,7 +7,7 @@ On July 19, 2024, a faulty CrowdStrike Falcon update (Channel File 291) caused 8
 - Prashanthi Seelam (vp6wgjc29d-hub)
 - Jasmeen Kaur (jasmeen10092007-svg)
 
-## Project Structure"
+## Project Structure
 crowdstrike-outage-2024-project/
 ├── docs/
 │ └── notes.md
